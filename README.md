@@ -1,27 +1,37 @@
-# Disney-dashboard-excel
-Interactive Disney content analysis dashboard built using Microsoft Excel.
 # Disney Dashboard Analysis
 
 ## Project Overview
-This project analyzes Disney content using Excel Dashboard techniques.
+
+This project presents an interactive Excel dashboard built using Disney content data. The dashboard provides insights into content distribution, release trends, ratings, and content categories through data visualization techniques.
 
 ## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts
-- Data Visualization
+
+* Microsoft Excel
+* Pivot Tables
+* Charts
+* Data Visualization
 
 ## Dashboard Features
-- Content by Type
-- Release Year Trends
-- Genre Analysis
-- Country-wise Distribution
-- Ratings Analysis
+
+* Content by Type
+* Release Year Trends
+* Genre Analysis
+* Country-wise Distribution
+* Ratings Analysis
 
 ## Key Insights
-- Most content belongs to ...
-- Peak release years were ...
-- Popular content categories were ...
+
+* Analyzed Disney movies and TV shows across different categories.
+* Identified content distribution trends over time.
+* Explored ratings and audience classifications.
+* Compared content availability across countries and genres.
+
+## Project Files
+
+* Disney Dataset.xlsx
+* Excel Dashboard
+* Dashboard Screenshot
 
 ## Author
+
 Divanshu Singh
