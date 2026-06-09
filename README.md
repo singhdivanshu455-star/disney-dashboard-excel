@@ -1,4 +1,4 @@
-# disney-dashboard-excel
+# Disney-dashboard-excel
 Interactive Disney content analysis dashboard built using Microsoft Excel.
 # Disney Dashboard Analysis
 
