@@ -1,37 +1,81 @@
-# Disney Dashboard Analysis
+# 🏰 Disney Dashboard Analysis
 
-## Project Overview
+## 📌 Project Overview
 
-This project presents an interactive Excel dashboard built using Disney content data. The dashboard provides insights into content distribution, release trends, ratings, and content categories through data visualization techniques.
+This project showcases an interactive **Microsoft Excel Dashboard** built using Disney content data. It provides meaningful insights into Disney's content library by analyzing movies, TV shows, release trends, genres, ratings, and country-wise distribution through engaging visualizations and interactive reports.
 
-## Tools Used
+---
 
-* Microsoft Excel
-* Pivot Tables
-* Charts
+## 🚀 Tools & Technologies
+
+* 📊 Microsoft Excel
+* 📑 Pivot Tables
+* 📈 Pivot Charts
+* 🎨 Data Visualization
+* 📋 Slicers & Interactive Filters
+
+---
+
+## ✨ Dashboard Highlights
+
+* 🎬 Content Distribution by Type (Movies vs TV Shows)
+* 📅 Release Year Trend Analysis
+* 🎭 Genre Analysis
+* 🌍 Country-wise Content Distribution
+* 🔞 Content Rating Analysis
+* 📊 Interactive Dashboard with Slicers
+* 📖 Data Storytelling through Visual Insights
+
+---
+
+## 📊 Key Insights
+
+* Analyzed the distribution of **Disney Movies** and **TV Shows**.
+* Identified trends in content releases over the years.
+* Explored the most popular **genres** available in the Disney library.
+* Compared content availability across different **countries**.
+* Examined **content ratings** to understand audience classifications.
+
+---
+
+## 🎯 Skills Demonstrated
+
+* Data Cleaning & Preparation
+* Pivot Table Analysis
+* Interactive Dashboard Design
 * Data Visualization
+* Business Intelligence Reporting
+* Data Storytelling
+* Excel Reporting & Analytics
 
-## Dashboard Features
+---
 
-* Content by Type
-* Release Year Trends
-* Genre Analysis
-* Country-wise Distribution
-* Ratings Analysis
+## 📂 Project Files
 
-## Key Insights
+* 📄 Disney Dataset.xlsx
+* 📊 Disney Excel Dashboard
+* 🖼 Dashboard Screenshot
 
-* Analyzed Disney movies and TV shows across different categories.
-* Identified content distribution trends over time.
-* Explored ratings and audience classifications.
-* Compared content availability across countries and genres.
+---
 
-## Project Files
+## 📷 Dashboard Preview
 
-* Disney Dataset.xlsx
-* Excel Dashboard
-* Dashboard Screenshot
+A preview of the dashboard is available above.
 
-## Author
+---
 
-Divanshu Singh
+## 📚 Dataset
+
+Disney Content Dataset
+
+---
+
+## 👨‍💻 Author
+
+**Divanshu Singh**
+
+📌 Aspiring Data Analyst | Excel | Power BI | SQL | Python
+
+---
+
+## ⭐ If you found this project useful, consider giving it a **Star** on GitHub!
